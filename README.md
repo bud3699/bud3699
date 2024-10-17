@@ -6,7 +6,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/344afa87-1a73-4b1e-9fc9-e87e375b4e83" alt="Wave GIF" height="200" width="600" />
+<img src="https://github.com/user-attachments/assets/344afa87-1a73-4b1e-9fc9-e87e375b4e83" alt="Wave GIF" width="600" />
 </div>
 
 
