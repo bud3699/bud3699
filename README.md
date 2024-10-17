@@ -14,6 +14,8 @@
 <h2 align="center">Get to know me :)</h2>
 <br>
 <div align="center">
+
+- 😁 I’m hard working kinda guy, show me your love by giving me a follow and recommending me to your friends.
   
 - 🔭 I’m currently working on [Virtual Display Driver](https://github.com/itsmikethetech/Virtual-Display-Driver)
 
