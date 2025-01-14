@@ -39,6 +39,8 @@
 <div align="center">
   <a href="https://discord.com/users/399991360800948224" target="_blank">Discord - bud3699</a>
 </div>
+<h3 align="center">Favourite Language:</h3>
+<div align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></div>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">   
