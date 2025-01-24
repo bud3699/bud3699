@@ -49,7 +49,7 @@ If this didnt answer any of your questions, then feel free to message me and ask
 
 - 👯 I’m looking to collaborate on **anything, I love learning new things and seeing what I bring to the table**
 
-- 👨‍💻 All of my projects will be available at [bud.is-a.dev](bud.is-a.dev)
+- 👨‍💻 All of my projects will be available at [bud.is-a.dev](https://bud.is-a.dev)
 
 - 💬 Ask me about **anything, I'll try have a convo the best I can**
 
