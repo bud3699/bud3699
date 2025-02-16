@@ -9,32 +9,7 @@
 <img src="https://github.com/user-attachments/assets/344afa87-1a73-4b1e-9fc9-e87e375b4e83" alt="Wave GIF" width="600" />
 </div>
 
-
 ---
-<h2 align="center">Before you read</h2>
-<br>
-<div align="center">
-For the people who have actually tried to message me on this topic, let me answer a few of your questions real quick.<br>
-<br>  
-"You removed yourself from the project?"<br>
-Yes, I no longer will develop for the virtual Display driver or its companion.<br>
-<br>
-"Is this permanent or just a break"<br>
-Permenant, I no longer want to be part of the team.<br>
-<br>
-"Are you okay?"<br>
-Yes, Somewhat<br>
-<br>
-"Was this your decision?"<br>
-Kinda, yet kinda not, I dont want to get into it<br>
-<br>
-"What will happen next?"<br>
-I imagine mike and jocke will attempt to continue development without me.<br>
-<br>
-<br>
-If this didnt answer any of your questions, then feel free to message me and ask more. Discord: bud3699
-</div>
-
 
 
 <h2 align="center">Get to know me :)</h2>
