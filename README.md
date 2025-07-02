@@ -20,7 +20,7 @@
   
 - 🔭 I’m currently working on my infinity base unreal plugin.
 
-- 🌱 I’m currently learning **ARM64 Development**
+- 🌱 I’m currently learning **Nothing**
 
 - 👯 I’m looking to collaborate on **anything, I love learning new things and seeing what I bring to the table**
 
